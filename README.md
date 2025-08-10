@@ -1,3 +1,40 @@
+# **xBrowserSync - Community Edition (Active Fork)**
+
+**This is a community-maintained fork of the original xBrowserSync project. The main project has been discontinued, and this version aims to fix compatibility issues and add improvements, ensuring the extension continues to function on modern browsers.**
+
+---
+
+### What problem does this project solve?
+
+The original xBrowserSync stopped working correctly in browsers like Google Chrome due to the transition to **Manifest V3**, which introduced new security policies. This fork resolves that incompatibility by refactoring the code to comply with the new rules.
+
+With this version, you can continue to securely and encrypted sync your **Browse history, bookmarks, passwords, and open tabs** across different browsers, including **Chrome, Firefox, and Edge**.
+
+---
+
+### How to use the extension
+
+1.  **Download the source code** from this repository.
+2.  **Open your browser** (Chrome, Firefox, etc.).
+3.  **Go to the extensions page** (`chrome://extensions` or `about:addons`).
+4.  **Enable "Developer mode"**.
+5.  **Click "Load unpacked"** and select the source code folder you downloaded.
+6.  Follow the instructions to set up the extension with your sync ID and password.
+
+---
+
+### How to contribute
+
+Your help is essential for the success of this project. If you're a developer, here are a few ways you can contribute:
+
+1.  **Report bugs:** Found an issue? Open a GitHub issue to let us know.
+2.  **Submit code:** If you've implemented an improvement or fixed a bug, fork this repository and submit a **Pull Request**.
+3.  **Suggest new features:** Share your ideas for improving the extension.
+
+---
+
+### Original README.md Content (Archived)
+
 # xBrowserSync
 
 ## Desktop browser web extensions and Android app
